@@ -1,0 +1,11 @@
+.form {
+    background-color: rgba(10, 121, 212, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 2px rgb(153, 141, 141);
+}
+
+.btn-primary {
+    background-color: #8ea6aa;
+    border-color: #443f47;
+}

@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+}
+
+.custom-file-upload {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #511ec7;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-file-upload input[type="file"] {
+    display: none;
+}
+
+.btn-primary {
+    background-color: #ca1717;
+    border-color: #493f3f;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #ff0000;
+    border-color: #000000;
+}
+
+.boton-validar{
+    padding-top: 25px;
+}
